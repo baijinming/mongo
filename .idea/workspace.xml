@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d292d4aa-2b6e-4e09-9f5e-03e7ccd95596" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pachong.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pachong.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pachong.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yunshu-mongo/routes/index.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pachong.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/yunshu-mongo/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/ansicolors/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/array-find-index/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/basic-auth/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/basic-auth/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/bson/browser_build/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/bson/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/builtin-modules/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/camelcase-keys/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/cardinal/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/cli-table/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/cli-usage/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/color-convert/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/color-name/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/colors/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/cookie-parser/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/currently-unhandled/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/dateformat/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/debounce/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/dynamic-dedupe/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/ejs/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/error-ex/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/esprima/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/filewatcher/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/foreach/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/get-stdin/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/growly/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/hosted-git-info/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/indent-string/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/indexof/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/is-arrayish/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/is-builtin-module/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/is-finite/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/is-object/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/is-utf8/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/is/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/isexe/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/kareem/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/load-json-file/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/lodash._arraycopy/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/lodash._arrayeach/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/lodash._baseassign/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/lodash._baseclone/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/lodash._basecopy/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/lodash._basefor/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/lodash._bindcallback/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/lodash._getnative/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/lodash.assign/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/lodash.clonedeep/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/lodash.get/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/lodash.isarguments/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/lodash.isarray/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/lodash.keys/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/lodash.toarray/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/loud-rejection/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/map-obj/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/marked-terminal/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/marked/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/memory-pager/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/meow/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/mongodb-core/node_modules/bson/browser_build/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/mongodb-core/node_modules/bson/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/mongodb-core/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/mongodb-core/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/mongodb/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/mongodb/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/mongoose-legacy-pluralize/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/mongoose/examples/aggregate/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/mongoose/examples/express/connection-sharing/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/mongoose/examples/geospatial/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/mongoose/examples/lean/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/mongoose/examples/mapreduce/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/mongoose/examples/promises/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/mongoose/examples/querybuilder/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/mongoose/examples/replicasets/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/mongoose/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/mongoose/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/morgan/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/mpath/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/mquery/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/mquery/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/mquery/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/node-dev/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/node-emoji/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/node-notifier/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/normalize-package-data/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/object-keys/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/on-headers/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/parse-json/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/path-parse/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/path-type/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/pinkie-promise/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/pinkie/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/raw-body/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/raw-body/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/read-pkg-up/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/read-pkg/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/redent/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/redeyed/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/regexp-clone/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/repeating/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/require_optional/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/require_optional/test/nestedTest/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/resolve/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/resolve/test/module_dir/zmodules/bbb/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/resolve/test/resolver/baz/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/resolve/test/resolver/browser_field/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/resolve/test/resolver/dot_main/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/resolve/test/resolver/dot_slash_main/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/resolve/test/resolver/incorrect_main/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/saslprep/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/shellwords/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/sliced/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/sparse-bitfield/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/spdx-correct/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/spdx-exceptions/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/spdx-expression-parse/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/spdx-license-ids/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/strip-bom/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/strip-indent/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/trim-newlines/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/validate-npm-package-license/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/which/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/node_modules/xtend/package.json" />
+      <path value="$PROJECT_DIR$/yunshu-mongo/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1405" />
+    <option name="height" value="955" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mongo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/yunshu-mongo" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d292d4aa-2b6e-4e09-9f5e-03e7ccd95596" name="Default" comment="" />
+      <created>1537833814151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537833814151</updated>
+      <workItem from="1537833816147" duration="2195000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2195000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.15691869" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunshu-mongo/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

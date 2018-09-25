@@ -23,7 +23,7 @@ router.post('/users', (req,res) => {
     users.create({ id, name, sex, friends }).then(data => {
       res.json({
           code: 200,
-          data
+          data: '添加成功'
       })
     })
 })
@@ -35,7 +35,7 @@ router.put('/users/:id', (req,res) => {
   users.updateOne({ id },{$set: {name} }).then(data => {
     res.json({
         code: 200,
-        data
+        data: '修改成功'
     })
     })
 })
@@ -46,7 +46,7 @@ router.delete('/users', (req,res) => {
   users.remove({ id }).then(data => {
     res.json({
         code: 200,
-        data
+        data: '删除成功'
     })
   })
 })

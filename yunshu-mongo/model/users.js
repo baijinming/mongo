@@ -5,7 +5,7 @@ const yunSchema = new mongoose.Schema({
     name: String,
     sex: String,
     friends: Array
-})
+},{versionKey: false})
 
 const users = mongoose.model('users', yunSchema)
 

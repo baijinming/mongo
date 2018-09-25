@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action="https://upload-z1.qiniup.com" method="post" enctype="multipart/form-data">
+    <input type="file" name="file" >
+    <input type="hidden" name="token" id="token">
+    <button>上传</button>
+</form>
+</body>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script>
+    let token = document.getElementById('token')
+    axios.post('/getToken').then(res => {
+        token.value = res.data.token
+        alert('token 获取成功')
+    })
+</script>
+</html>

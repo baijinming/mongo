@@ -14,6 +14,10 @@ export default new Router({
         {
           path: 'index',
           component: () => import('@/views/index')
+        },
+        {
+          path: 'register',
+          component: () => import('@/views/register')
         }
       ]
     }

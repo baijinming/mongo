@@ -1,8 +1,6 @@
 import axios from 'axios'
-import { Notification } from 'element-ui'
-import router from '../router'
 
-const baseURL = '/api/admin'
+const baseURL = '/api'
 
 const instance = axios.create({
   baseURL,

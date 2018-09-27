@@ -20,18 +20,18 @@
 
 <script>
     export default {
-        data() {
-          return {
-            form: {
-              username: '',
-              email: '',
-              password: ''
-            }
+      data() {
+        return {
+          form: {
+            username: '',
+            email: '',
+            password: ''
           }
-        },
+        }
+      },
       methods: {
         register() {
-          this.$axios.post('/register',this.form).then( res => {
+          this.$axios.post('/register', this.form).then( res => {
             if (res.code == 200) {
               this.$message.success('注册成功')
             } else {

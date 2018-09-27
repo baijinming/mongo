@@ -1,7 +1,7 @@
 <template>
     <div class="header">
       <div class="w1170 content">
-        <h1>云笔记</h1>
+        <router-link to="/">云笔记</router-link>
         <el-button class="btn">写笔记</el-button>
       </div>
     </div>
@@ -22,7 +22,8 @@
       display: flex;
       justify-content: space-between;
 
-      h1 {
+      a {
+        text-decoration: none;
         color: #fff;
         font-size: 30px;
         line-height: 50px;
@@ -30,7 +31,7 @@
       }
 
       .btn {
-        margin: 5px;
+        margin: 5px 0;
       }
     }
   }

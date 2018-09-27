@@ -1,7 +1,7 @@
 <template>
     <div class="layout">
       <Header></Header>
-      <div class="w1170 content">
+      <div class="w1170">
         <router-view ></router-view>
       </div>
     </div>
@@ -18,7 +18,4 @@
 
 <style scoped>
 
-  .content {
-    margin-top: 60px;
-  }
 </style>

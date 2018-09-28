@@ -9,7 +9,7 @@
         <el-input v-model="form.email" placeholder="邮箱"></el-input>
       </el-form-item>
       <el-form-item>
-        <el-input type="password" v-model="form.password" placeholder="密码"></el-input>
+        <el-input type="password" v-model="form.password" placeholder="密码" @keyup.enter.native="register"></el-input>
       </el-form-item>
       <el-form-item>
         <el-button type="primary" style="width: 350px" @click="register">注册</el-button>
@@ -31,9 +31,12 @@
       },
       methods: {
         register() {
-          this.$axios.post('/register', this.form).then( res => {
+          this.$axios.post('/user/register', this.form).then( res => {
             if (res.code == 200) {
               this.$message.success('注册成功')
+              getTimeout(() => {
+                this.$router.push('/')
+              },500)
             } else {
               this.$message.error(res.msg)
             }

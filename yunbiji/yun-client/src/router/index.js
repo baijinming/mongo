@@ -20,6 +20,15 @@ const router = new Router({
         {
           path: 'register',
           component: () => import('@/views/register')
+        },
+        {
+          path: 'write',
+          component: () => import('@/views/writeNote')
+        },
+        {
+          path: 'article',
+          name: 'article',
+          component: () => import('@/views/article')
         }
       ]
     }

@@ -1,10 +1,12 @@
 import axios from 'axios'
+import Vue from 'vue'
 
-const baseURL = '/api'
+const env = process.env.NODE_ENV
+const baseURL = env == 'development' ? '/api' : ''
 
 const instance = axios.create({
   baseURL,
-  timeout:10000
+  timeout:10000000
 })
 
 const xhr = {

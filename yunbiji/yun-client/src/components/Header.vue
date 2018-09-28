@@ -2,14 +2,22 @@
     <div class="header">
       <div class="w1170 content">
         <router-link to="/">云笔记</router-link>
-        <el-button class="btn">写笔记</el-button>
+        <el-button class="btn" @click="handleGO">写笔记</el-button>
       </div>
     </div>
 </template>
 
 <script>
     export default {
-        name: "Header"
+        methods: {
+          handleGO() {
+            if(this.$store.state.userInfo) {
+              this.$router.push('/write')
+            }else {
+              this.$message.error('登录之后才能写笔记')
+            }
+          }
+        }
     }
 </script>
 
